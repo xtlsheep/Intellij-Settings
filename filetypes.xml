@@ -8,6 +8,7 @@
       <mapping pattern=".env.stage" type="PLAIN_TEXT" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
       <mapping ext="pipeline" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="pbraw" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
