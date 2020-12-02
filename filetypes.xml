@@ -1,15 +1,15 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="DutchExtractorController" type="CLASS" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="DutchExtractorApiConfiguration" type="JAVA" />
-      <mapping pattern=".env.stage" type="PLAIN_TEXT" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="OWNERS" type="PLAIN_TEXT" />
+      <mapping pattern=".env.stage" type="PLAIN_TEXT" />
       <mapping ext="pipeline" type="PLAIN_TEXT" />
-      <mapping ext="dump" type="PLAIN_TEXT" />
       <mapping ext="pbraw" type="PLAIN_TEXT" />
+      <mapping ext="dump" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
