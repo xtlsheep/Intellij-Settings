@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../device/device-action-gateway/service/src/test/java/com/fitbit/device/dag/config/KafkaEncryptedSerializerProviderComponentTest.java [weightsite_1.device.device-action-gateway.service.test]'" />
+    <option name="defaultScopeName" value="File '.../device/device-action-gateway/service/src/test/java/com/fitbit/device/dag/config/KafkaEncryptedSerializerProviderComponentTest.java [weightsite_1.device.device-action-gateway.service.test]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../device/device-action-gateway/service/src/test/java/com/fitbit/device/dag/config/KafkaEncryptedSerializerProviderComponentTest.java [weightsite_1.device.device-action-gateway.service.test]'" />
   </component>
 </application>
